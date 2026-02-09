@@ -61,7 +61,7 @@ A comprehensive inventory management system designed specifically for small busi
 
 - **Admin User:**
   - Username: `admin`
-  - Password: `admin123`
+  - Password: `1234`
 
 - **Staff User (for testing):**
   - Username: `staff`
