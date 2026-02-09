@@ -1,6 +1,6 @@
-# ABSAM SPARES Inventory Management System
+# Small Business Inventory Management System
 
-A comprehensive inventory management system designed specifically for motorbike spare parts dealerships. This application helps manage stock, sales, debts, accounting, and user management in an intuitive desktop interface.
+A comprehensive inventory management system designed specifically for small business dealerships. This application helps manage stock, sales, debts, accounting, and user management in an intuitive desktop interface.
 
 ## 🌟 Features
 
