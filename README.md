@@ -218,7 +218,7 @@ The application supports exporting data to CSV format:
 
 ## 📝 License & Copyright
 
-This is a trial version of ABSAM SPARES Inventory Management System.
+This is a trial version of Small Business Inventory Management System.
 
 **Developer:** David Kofa  
 **Email:** davidkofa07@gmail.com  
