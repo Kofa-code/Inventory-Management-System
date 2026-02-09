@@ -29,7 +29,7 @@ A comprehensive inventory management system designed specifically for small busi
 
 1. **Clone or download the repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Kofa-code/Inventory-Management-System.git)
    cd absam-spares-inventory
    ```
 
